@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cuvette-1st-react-design-project-live/static/css/main.ba66269a.css",
+    "main.js": "/cuvette-1st-react-design-project-live/static/js/main.1744b6cd.js",
+    "static/media/Vector.png": "/cuvette-1st-react-design-project-live/static/media/Vector.2b356430f614926326a7.png",
+    "index.html": "/cuvette-1st-react-design-project-live/index.html",
+    "main.ba66269a.css.map": "/cuvette-1st-react-design-project-live/static/css/main.ba66269a.css.map",
+    "main.1744b6cd.js.map": "/cuvette-1st-react-design-project-live/static/js/main.1744b6cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba66269a.css",
+    "static/js/main.1744b6cd.js"
+  ]
+}
